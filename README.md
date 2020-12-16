@@ -4,10 +4,10 @@ CSE431 Assignment 4
 Paper Presentation - 
 
 1. Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language
-Youtube Unlisted Video Link: https://youtu.be/a62RZv1qzsg
+  Youtube Unlisted Video Link: https://youtu.be/a62RZv1qzsg
 
 2. Unsupervised Translation of Programming Languages
-Youtube Unlisted Video Link: https://youtu.be/CrZRMhE02v4
+  Youtube Unlisted Video Link: https://youtu.be/CrZRMhE02v4
 
 Presented By: 
 Niloy Deb Roy Mishu
